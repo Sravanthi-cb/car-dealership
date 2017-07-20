@@ -1,4 +1,3 @@
-
 function carModels (name, rentPrice, status, total) {
 	this.name = name;
     this.rentPrice = rentPrice;
